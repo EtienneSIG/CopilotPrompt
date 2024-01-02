@@ -1,8 +1,8 @@
 # Traduction and grammar correction prompt
 ## English
+Act like a professional translator with 20 years of experience, translate the following text : <text to translate>
+
 
 ## Français
-### Traduction
-Agit comme un traducteur avec 20 experiences ayant vécu en angletterre pendant 15 ans, traduit moi le texte suivant : <Texte à traduire> 
-
-Agit comme un traducteur avec 20 experiences ayant vécu en amérique du nord pendant 15 ans, traduit moi le texte suivant : <Texte à traduire>
+### Traduction dans une langque cible
+Agit comme un traducteur <langue > avec 20 experiences ayant vécu <pays de la langue> pendant 15 ans, traduit moi le texte suivant : <Texte à traduire> 
