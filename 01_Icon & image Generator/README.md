@@ -1,7 +1,9 @@
 # Icon and image generator prompt
 ## English
 ### Icon generator for business purpose
-Act as 20 year of experience desginer, generate black and white flat design icon around the theme of <theme >
+Act as 20 year of experience desginer, generate black and white flat design icon around the theme of <define the theme >
+
+Act as 20 year of experience desginer, generate pastel color flat design icon around the theme of <define the theme >
 
 ## Français
 ### Générateur d'icône pour le travail
