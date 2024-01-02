@@ -1,4 +1,9 @@
 # Icon and image generator prompt
+
+Go to [Microsoft Designer](https://designer.microsoft.com/)
+- [Image Creator](https://designer.microsoft.com/image-creator)
+-
+
 ## English
 ### Icon generator for business purpose
 Act as 20 year of experience designer, generate a set black and white flat design icons around the theme of < define the theme >
