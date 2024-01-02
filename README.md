@@ -1,6 +1,9 @@
 # CopilotPrompt
 The most Copilot Prompt I used for daily life - Les prompt Copilot que j'utilise au quotidien
 
+**Table of content:**
+ - [Professionnal](## Professionnal)
+ - [Personnal](## Personnal)
 
 ## Professionnal
 - [Icon and image content generator](https://github.com/EtienneSIG/CopilotPrompt/tree/main/01_Icon%20%26%20image%20Generator "Icon and image content generator").
